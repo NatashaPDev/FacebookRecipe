@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facebook Recipes</string>
+    <string name="login.error">%s</string>
+    <string name="login.cancel.error">Login canceled</string>
+</resources>
